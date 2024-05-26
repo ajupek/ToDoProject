@@ -1,1 +1,6 @@
-ToDo list made by React, NodeJS (Express) and MongoDB
+This project was built with the following technologies:
+
+- Node.js
+- Express.js
+- MongoDB (with Mongoose)
+- React.js
